@@ -7,6 +7,8 @@ let presupuesto;
 
 // Eventos
 
+alert("No podes");
+
 eventListener()
 function eventListener() {
     document.addEventListener('DOMContentLoaded', preguntarPresupuesto);
